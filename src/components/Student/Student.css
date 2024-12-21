@@ -1,0 +1,10 @@
+.Std-Div{
+    color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+    box-shadow: 0 0 12px darkblue;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    padding: 10px 30px;
+    display: inline-block;
+    margin: 10px;
+}
